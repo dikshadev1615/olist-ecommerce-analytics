@@ -466,8 +466,7 @@ Connects:
 ---
 
 ## Tableau Portfolio View
-
-![Tableau Dashboard Suite](./tableau-dashboard-suite.png)
+![Tableau Dashboard Suite](./images/tableau-dashboard-suite.png)
 
 *The five dashboards represent one integrated analytical solution rather than five separate projects.*
 
