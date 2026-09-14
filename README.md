@@ -466,9 +466,13 @@ Connects:
 ---
 
 ## Tableau Portfolio View
+
+**[→ View the Interactive Tableau Dashboard on Tableau Public](https://public.tableau.com/views/olistecommercedashboard/ExecutiveDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
+
 ![Tableau Dashboard Suite](./images/tableau-dashboard-suite.png)
 
 *The five dashboards represent one integrated analytical solution rather than five separate projects.*
+
 
 ---
 
